@@ -1,0 +1,2 @@
+# ge-argo
+GitOps Everything
